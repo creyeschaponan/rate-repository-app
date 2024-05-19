@@ -1,4 +1,4 @@
-import { View, StyleSheet, Image } from 'react-native';
+import { View, StyleSheet, Image, Platform } from 'react-native';
 import StyledText from './StyledText';
 import RepositoryStats from './RepositoryStats';
 import theme from '../theme'
